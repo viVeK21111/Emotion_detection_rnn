@@ -1,3 +1,3 @@
-check temp2.ipybn
-accuracy: 60%
-model: bi gru
+check temp2.ipybn \n
+accuracy: 60% \n
+model: bi gru \n
